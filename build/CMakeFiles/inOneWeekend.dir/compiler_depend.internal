@@ -192,4 +192,5 @@ CMakeFiles/inOneWeekend.dir/main.cpp.o
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h
+ /home/aiden/raytracing/src/ray.h
 

@@ -190,7 +190,8 @@ CMakeFiles/inOneWeekend.dir/main.cpp.o: /home/aiden/raytracing/src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
-  /usr/include/x86_64-linux-gnu/bits/iscanonical.h
+  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
+  /home/aiden/raytracing/src/ray.h
 
 
 /usr/include/x86_64-linux-gnu/bits/iscanonical.h:
@@ -500,6 +501,8 @@ CMakeFiles/inOneWeekend.dir/main.cpp.o: /home/aiden/raytracing/src/main.cpp \
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
+
+/home/aiden/raytracing/src/ray.h:
 
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
